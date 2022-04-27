@@ -18,7 +18,7 @@ advanced algorithmic challenges and more complex language features. It includes:
 
 | My solutions Kata(s) | CodeWars Task |
 |--|--|
-| [**Microwave Maid Ep1: The touchpad test**](https://github.com/Nosieek/CW_solutions_python/blob/main/6kyuKata/Sortable_shapes.py)  | [Open](https://www.codewars.com/kata/586669a8442e3fc307000048) |
+| [**Microwave Maid Ep1: The touchpad test**](https://github.com/Nosieek/CW_Solutions_Java/blob/main/src/main/microwaveMaidEp1.java)  | [Open](https://www.codewars.com/kata/61e1f175fbf3bd002a5528cd/) |
 
 
 <br>
