@@ -1,4 +1,4 @@
-package main;
+package main.kyu6;
 
 public class microwaveMaidEp1 {
     public String getBestCombination(int time) {

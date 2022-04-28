@@ -1,5 +1,5 @@
-package test;
-import main.microwaveMaidEp1;
+package test.kyu6;
+import main.kyu6.microwaveMaidEp1;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
