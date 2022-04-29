@@ -2,6 +2,21 @@
 
 Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.com/users/Nosieek)!
 
+---
+## 5Kyu Katas
+
+---
+5 kyu kata represent a novice programming level. At this level, the kata are similar to 6 kyu but more challenging. It includes:
+* Complex language features that require mature OOP/Functional concepts
+* Advanced OOP/Functional concepts
+* Complex Design Patterns
+* Advanced regular expression usage
+---
+
+
+| My solutions Kata(s) | CodeWars Task |
+|--|--|
+| [**Number of trailing zeros of N!**](https://github.com/Nosieek/CW_Solutions_Java/blob/main/src/main/kyu5/trallingZerosOfN.java)  | [Open](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34/) |
 
 
 ---
@@ -22,7 +37,7 @@ advanced algorithmic challenges and more complex language features. It includes:
 |--|--|
 | [**Microwave Maid Ep1: The touchpad test**](https://github.com/Nosieek/CW_Solutions_Java/blob/main/src/main/kyu6/microwaveMaidEp1.java)  | [Open](https://www.codewars.com/kata/61e1f175fbf3bd002a5528cd/) |
 | [**Array.diff**](https://github.com/Nosieek/CW_Solutions_Java/blob/main/src/main/kyu6/arrayDiff.java)  | [Open](https://www.codewars.com/kata/523f5d21c841566fde000009) |
-| [** **]()  | [Open]() |
+| [**Kingdoms Ep1: Jousting**](https://github.com/Nosieek/CW_Solutions_Java/blob/main/src/main/kyu6/kingdomsEp1.java)  | [Open](https://www.codewars.com/kata/6138ee916cb50f00227648d9/java) |
 
 <br>
 
