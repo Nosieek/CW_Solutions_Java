@@ -17,6 +17,7 @@ Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.c
 | My solutions Kata(s) | CodeWars Task |
 |--|--|
 | [**Number of trailing zeros of N!**](https://github.com/Nosieek/CW_Solutions_Java/blob/main/src/main/kyu5/trallingZerosOfN.java)  | [Open](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34/) |
+| [**Scramblies**](https://github.com/Nosieek/CW_Solutions_Java/blob/main/src/main/kyu5/Scramblies.java)  | [Open](https://www.codewars.com/kata/55c04b4cc56a697bb0000048) |
 
 
 ---
