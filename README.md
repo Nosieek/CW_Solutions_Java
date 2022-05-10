@@ -1,4 +1,4 @@
-# CodeWars Python Solutions
+# CodeWars Java Solutions
 
 Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.com/users/Nosieek)!
 
